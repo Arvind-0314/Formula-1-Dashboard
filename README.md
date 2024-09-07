@@ -18,3 +18,5 @@ Donut Chart
 Map
 Line Graph
 Scatter Map
+Bar Chart
+Table
