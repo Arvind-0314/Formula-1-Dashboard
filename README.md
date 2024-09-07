@@ -5,7 +5,7 @@ The dashboard focuses on the performances of the teams and racers in Formula 1 r
 
 Top racers across the world
 The most successful racers
-Raace Status
+Race Status
 Total points scored every year
 Locations where the races has been held and the count of races and drivers
 How starting positions affect the result and the seasons
@@ -16,3 +16,5 @@ How starting positions affect the result and the seasons
 
 Donut Chart
 Map
+Line Graph
+Scatter Map
