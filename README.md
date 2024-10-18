@@ -1,7 +1,7 @@
 # Formula-1-Dashboard Microsoft Power BI
 Formula 1 dashboard created using Microsoft Power BI
 
-The dashboard focuses on the performances of the teams and racers in Formula 1 races from 1950 to 2024. KPIs have been selected in a manner showing
+The dashboard focuses on the performances of the teams and racers in Formula 1 races from 1950 to 2024. 
 
  - Top racers across the world
  - The most successful racers
